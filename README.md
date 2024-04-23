@@ -3,9 +3,9 @@
 At the race for certification i've decide to learn these free courses on [Saylor Academy](https://learn.saylor.org/course/CS101)
 
 - __course__:
-  [ ] CS101: Introduction to Computer Science I
-  [ ] CS102: Introduction to Computer Science II
-  [ ] CS105: Introduction to Python
+[ ] CS101: Introduction to Computer Science I
+[ ] CS102: Introduction to Computer Science II
+[ ] CS105: Introduction to Python
   [ ] CS107: C++ Programming
   [ ] CS201: Elementary Data Structures
   [ ] CS202: Discrete Structures
